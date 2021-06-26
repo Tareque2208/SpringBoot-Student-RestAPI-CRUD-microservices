@@ -36,7 +36,6 @@
 
 
 #### Making Package of this application(making an instance for docarization)
-###### Annotation Used - `@Query`
 1. Open Maven from right bar and click `Clean`. It will delete `target` folder from the source.
 2. Click `Install` and It will create a new instance of the project.
 3. Run `cd target`
