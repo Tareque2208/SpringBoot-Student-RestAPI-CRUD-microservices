@@ -5,6 +5,8 @@
 * Service Layer
 * Data Access Layer
 
+## NOTES
+
 * Use [Spring Initializr](https://start.spring.io/) build a new application with several dependencies(Basic - Spring Boot DevTools, Spring Web, Spring Data JPA, H2 Database). 
 
 #### Create Student Model Class
